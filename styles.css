@@ -20,4 +20,4 @@ a{text-decoration:none;color:inherit}.section-dark{background:linear-gradient(13
 #prepare { scroll-margin-top: 200px; }
 #home { scroll-margin-top: 200px; }
 #story { scroll-margin-top: 150px; }
-#story, #prepare { min-height: 100vh; }
+#story { min-height: 100vh; align-items: flex-start; }

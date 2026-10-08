@@ -17,7 +17,7 @@ a{text-decoration:none;color:inherit}.section-dark{background:linear-gradient(13
 .launch-link-wrap{display:flex;align-items:center;gap:12px}
 
 .launch-list-button{display:inline-flex;justify-content:center;min-width:240px}
-#prepare { scroll-margin-top: 100px; }
+#prepare { scroll-margin-top: 100px; min-height: calc(100vh - 100px); align-items: flex-start; }
 #home { scroll-margin-top: 100px; }
 #story { scroll-margin-top: 100px; }
 #story { min-height: 100vh; align-items: flex-start; }
